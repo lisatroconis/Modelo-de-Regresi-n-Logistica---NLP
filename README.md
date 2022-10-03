@@ -1,1 +1,1 @@
-# Modelo-de-Regresi-n-Logistica---NLP
+# Modelo-de-Regresion-Logistica--NLP
